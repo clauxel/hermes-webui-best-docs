@@ -6,11 +6,11 @@ Hermes WebUI Launch Lab scans redacted deployment plans and turns install, Docke
 
 Remove tokens, cookies, private paths, and full environment files; keep only the fields needed to evaluate launch risk.
 
-## Docker readiness checklist
+## Docker readiness review
 
 Confirm images, volumes, env var names, health checks, proxy headers, and restart policy.
 
-## SSH tunnel checklist
+## SSH tunnel review
 
 Define local vs. remote direction, port exposure, allowed users, timeout behavior, and rollback path.
 
